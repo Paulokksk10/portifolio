@@ -180,3 +180,10 @@ button {
 
     margin-left: .5em;
 }
+
+.if img{
+    border-radius: 50%;
+}
+.local img {
+    border-radius:20%;
+}
