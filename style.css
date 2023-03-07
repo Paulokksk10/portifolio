@@ -88,11 +88,20 @@ button:hover{
     color: #fff;
     font-size: 20px;
 }
-img    {
-    margin-top: -150px;
-    margin-left: 1020px;
-    border-radius: 10%;
+.local {
+    margin-top: 50px;
+    margin-left: 1000px;
 }
+
+.if {
+    margin-top: -700px;
+    margin-left: 1300px;
+}
+
+.text h2{
+    color: #9e9e9e;
+}
+
 .text h1{
     color: #fff;
     font-size: 50px;
